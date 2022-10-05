@@ -11,7 +11,7 @@ players, and can receive or send cryptocurrency to their wallet, just in 1 click
 
 [![Watch the video](https://yt-embed.live/embed?v=aM5DipJdfVg)](https://www.youtube.com/watch?v=aM5DipJdfVg "Watch the video")
 
-################################################################################
+
 <!--
 [![IMAGE ALT TEXT](http://img.youtube.com/vi/aM5DipJdfVg/1.jpg)](http://www.youtube.com/watch?v=aM5DipJdfVg "Video Title")
 
