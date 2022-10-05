@@ -8,6 +8,8 @@ players, and can receive or send cryptocurrency to their wallet, just in 1 click
 
 [![IMAGE ALT TEXT](http://img.youtube.com/vi/aM5DipJdfVg/1.jpg)](http://www.youtube.com/watch?v=aM5DipJdfVg "Video Title")
 
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/aM5DipJdfVg/1.jpg)](https://youtu.be/aM5DipJdfVg?t=35s "Video Title")
+
 [![IMAGE ALT TEXT](https://github.com/saha0073/Multiplayer-Blockchain-Game-with-Cryptocurrency-Transaction/blob/main/multiplayer_blockchain.png)](https://youtu.be/aM5DipJdfVg?t=35s "Video Title")
 
 [![Everything Is AWESOME](http://i.imgur.com/Ot5DWAW.png)](https://youtu.be/StTqXEQ2l-Y?t=35s "Everything Is AWESOME")
