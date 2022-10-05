@@ -14,6 +14,8 @@ players, and can receive or send cryptocurrency to their wallet, just in 1 click
 
 [![Everything Is AWESOME](http://i.imgur.com/Ot5DWAW.png)](https://youtu.be/StTqXEQ2l-Y?t=35s "Everything Is AWESOME")
 
+[![Watch the video](https://img.youtube.com/vi/nTQUwghvy5Q/default.jpg)](https://youtu.be/nTQUwghvy5Q)
+
 <iframe width="560" height="315"
 src="https://www.youtube.com/embed/MUQfKFzIOeU" 
 frameborder="0" 
