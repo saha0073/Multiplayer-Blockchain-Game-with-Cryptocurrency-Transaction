@@ -1,4 +1,8 @@
-<h1>👋 Welcome</h1>
+<h1>👋 Multiplayer-Blockchain-Game-with-Cryptocurrency-Transaction </h1>
 
-Download the project zip file here: https://github.com/MoralisWeb3/youtube-tutorials/releases/tag/v1.0.0-unity-mmorpg-transactions
+Built this Multiplayer Blockchain Game in Unity using Moralis Metaverse SDK. The multiplayer feature
+has been integrated using Photon PUN. During the gameplay a player can see the wallet address of other
+players, and can receive or send cryptocurrency to their wallet, just in 1 click.
+
+![title-pic](https://github.com/saha0073/Multiplayer-Blockchain-Game-with-Cryptocurrency-Transaction/blob/main/multiplayer_blockchain.png)
 
