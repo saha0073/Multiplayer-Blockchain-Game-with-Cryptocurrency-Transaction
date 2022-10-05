@@ -8,3 +8,5 @@ players, and can receive or send cryptocurrency to their wallet, just in 1 click
 
 [![IMAGE ALT TEXT](http://img.youtube.com/vi/aM5DipJdfVg/0.jpg)](http://www.youtube.com/watch?v=aM5DipJdfVg "Video Title")
 
+[![Everything Is AWESOME](http://i.imgur.com/Ot5DWAW.png)](https://youtu.be/StTqXEQ2l-Y?t=35s "Everything Is AWESOME")
+
