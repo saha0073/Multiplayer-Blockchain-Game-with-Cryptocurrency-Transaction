@@ -6,6 +6,11 @@ players, and can receive or send cryptocurrency to their wallet, just in 1 click
 
 ![title-pic](https://github.com/saha0073/Multiplayer-Blockchain-Game-with-Cryptocurrency-Transaction/blob/main/multiplayer_blockchain.png)
 
+## Demo of sending Cryptocurrency within the Multiplayer Game
+* The `./Recordings` folder contains several recordings during the game play. You can check the following youtube link below,
+[![Watch the video](https://yt-embed.live/embed?v=aM5DipJdfVg)](https://www.youtube.com/watch?v=aM5DipJdfVg "Watch the video")
+
+<!--
 [![IMAGE ALT TEXT](http://img.youtube.com/vi/aM5DipJdfVg/1.jpg)](http://www.youtube.com/watch?v=aM5DipJdfVg "Video Title")
 
 [![IMAGE ALT TEXT](http://img.youtube.com/vi/aM5DipJdfVg/1.jpg)](https://youtu.be/aM5DipJdfVg?t=35s "Video Title")
@@ -29,4 +34,4 @@ allowfullscreen></iframe>
 
 [![Everything Is AWESOME](https://yt-embed.live/embed?v=StTqXEQ2l-Y)](https://www.youtube.com/watch?v=StTqXEQ2l-Y "Everything Is AWESOME")
 
-[![Everything Is AWESOME](https://yt-embed.herokuapp.com/embed?v=StTqXEQ2l-Y)](https://www.youtube.com/watch?v=StTqXEQ2l-Y "Everything Is AWESOME")
+[![Everything Is AWESOME](https://yt-embed.herokuapp.com/embed?v=StTqXEQ2l-Y)](https://www.youtube.com/watch?v=StTqXEQ2l-Y "Everything Is AWESOME")-->
