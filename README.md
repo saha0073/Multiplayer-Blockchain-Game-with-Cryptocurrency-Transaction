@@ -6,8 +6,8 @@ players, and can receive or send cryptocurrency to their wallet, just in 1 click
 
 ![title-pic](https://github.com/saha0073/Multiplayer-Blockchain-Game-with-Cryptocurrency-Transaction/blob/main/multiplayer_blockchain.png)
 
-## Demo of sending Cryptocurrency within the Multiplayer Game
-* The `./Recordings` folder contains several recordings during the game play. You can check the following youtube video below
+## Demo of the Multiplayer Blockchain Game
+* The `./Recordings` folder contains several recordings during the game play. You can check the following youtube video below which shows a demo of sending cryptocurrency to other players in the game
 
 [![Watch the video](https://yt-embed.live/embed?v=aM5DipJdfVg)](https://www.youtube.com/watch?v=aM5DipJdfVg "Watch the video")
 
